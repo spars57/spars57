@@ -1,16 +1,23 @@
 ### Hi! I am Bruno Moisão
-<div align="center">
-  <a href="https://github.com/spars57">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spars57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spars57&layout=compact&langs_count=7&theme=tokyonight"/>
+
+- 🎈 Working with backend stuff
+- 🌍 Learning NodeJS 
+- 😉 Pronouns: he/him
+
+<div style="display: inline_block">
+  <div align="center">
+    <a href="https://github.com/spars57">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spars57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spars57&layout=compact&langs_count=7&theme=tokyonight"/>
+  </div>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="spars-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="spars-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="spars-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="spars-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="spars-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="spars-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="spars-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="spars-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+
   ##
  
 <div> 
