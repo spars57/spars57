@@ -1,7 +1,7 @@
 ### Hi! I am Bruno Moisão
 
-- 🎈 Working with backend stuff
-- 🌍 Learning NodeJS 
+- 🎈 Currently doing an intership as Frontend Developer at Truphone
+- 🌍 Learning React and everything related to it.
 - 😉 Pronouns: he/him
 
 <div style="display: inline_block">
