@@ -1,6 +1,6 @@
 ### Hi! I am Bruno Moisão
 
-- 🎈 Currently doing an intership as a Frontend Developer at Truphone
+- 🎈 Currently doing an internship as a Frontend Developer at Truphone
 - 🌍 Learning React and everything related to it.
 - 😉 Pronouns: he/him
 
