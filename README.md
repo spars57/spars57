@@ -14,6 +14,6 @@
     <img align="center" alt="spars-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   </div>
 </div>
-  
-
+  <hr>
+   <a href="https://www.linkedin.com/in/bruno-mois%C3%A3o-3556a9209/">Linkedin</a>
 </div>
