@@ -7,9 +7,7 @@
 <div style="display: inline_block">
   <div align="center">
     <a href="https://github.com/spars57">
-
   </div>
-<h4>What I have been using lately:<h4>
   <div style="display: inline_block"><br>
     <img align="center" alt="spars-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="spars-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
