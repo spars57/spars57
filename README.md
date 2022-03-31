@@ -8,10 +8,18 @@
     <a href="https://github.com/spars57">
   </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="spars-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="spars-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="spars-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="spars-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <a href="https://nodejs.org/en/docs/">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    </a>
+     <a href="https://www.typescriptlang.org/docs/">
+        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+     </a>
+      <a href="https://reactjs.org/docs/getting-started.html">
+        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+     </a>
+     <a href="https://mui.com/">
+        <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg">
+     </a>
   </div>
 </div>
   <hr>
