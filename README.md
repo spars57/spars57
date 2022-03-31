@@ -2,7 +2,6 @@
 
 - 🎈 Currently doing an internship as a Frontend Developer at Truphone
 - 🌍 Learning React and everything related to it.
-- 😉 Pronouns: he/him
 
 <div style="display: inline_block">
   <div align="center">
