@@ -1,7 +1,6 @@
 
 
-- 🎈 Currently doing an internship as a Frontend Developer at Truphone
-- 🌍 Learning React and everything related to it.
+- 🎈 Junior Software Engineer at Truphone
 
 <div style="display: inline_block">
   <div align="center">
