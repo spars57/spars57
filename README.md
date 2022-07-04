@@ -1,6 +1,6 @@
 
 
-- 🎈 Junior Software Engineer at Truphone
+- 🎈 Software Engineer at Truphone
 
 <div style="display: inline_block">
   <div align="center">
