@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **brunomoisao03@gmail.com**
 
+- 📄 Know about my experiences [I started my journey in 2018 when I started to develop interest in the IT field, since kid I have always been in love with technologies and I strongly want to be part of the future of them. In 2019 I joined a 3 year course about Software Engineering and IT in general. Since the start of the course I developed a passion for coding and ended up being the best student of that course finishing with an astonishing average of 19,47 values in a maximum of 20 in the programming subjects. After finishing the course I started an internship at Truphone and ended up being hired as one of the youngest members of the company. Currently, I am working as a Junior Software Engineer while also getting a Degree in Computer Science and Engineering at Universidade Autónoma de Lisboa.](I started my journey in 2018 when I started to develop interest in the IT field, since kid I have always been in love with technologies and I strongly want to be part of the future of them. In 2019 I joined a 3 year course about Software Engineering and IT in general. Since the start of the course I developed a passion for coding and ended up being the best student of that course finishing with an astonishing average of 19,47 values in a maximum of 20 in the programming subjects. After finishing the course I started an internship at Truphone and ended up being hired as one of the youngest members of the company. Currently, I am working as a Junior Software Engineer while also getting a Degree in Computer Science and Engineering at Universidade Autónoma de Lisboa.)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bruno-moisao-3556a9209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bruno-moisao-3556a9209/" height="30" width="40" /></a>
-<a href="https://instagram.com/brumoisao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brumoisao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno moisão" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno moisão" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
