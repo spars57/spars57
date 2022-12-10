@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **brunomoisao03@gmail.com**
 
-I started my journey in 2018 when I started to develop interest in the IT field, I have always been in love with technologies and I strongly want to be part of their future. In 2019 I joined a 3 year course about Software Engineering and IT in general. Since the start of the course I developed a passion for coding and ended up being the best student of that course finishing with an astonishing average of 19,47 values in a maximum of 20 in the programming subjects. After finishing the course I started an internship at Truphone and ended up being hired as the youngest member of the company and the first one hired without a degree. Currently, I am working as a Software Engineer while also getting a Degree in Computer Science and Engineering at Universidade Autónoma de Lisboa.
+I started my journey in 2018 when I started to develop interest in the IT field, I have always been in love with technologies and I strongly want to be part of their future. In 2019 I joined a 3 year course about Software Engineering and IT in general. Since the start of the course I developed a passion for coding and ended up being the best student of that course finishing with an astonishing average of 18/20. After finishing the course I started an internship and ended up being **hired as the youngest member of the company and the first one hired without a degree**. Currently, I am working as a Software Engineer while also getting a Degree in Computer Science and Engineering at Universidade Autónoma de Lisboa.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
