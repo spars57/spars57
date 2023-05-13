@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Moisão</h1>
 <h3 align="center">I am a Software Engineer working remotely.</h3>
 
-- 🌱 I’m currently learning **Hardcore Typescript and Noob Java**
+- 🌱 I’m currently learning **REST Services with Springboot**
 
 - 💬 Ask me about **Anything**
 
